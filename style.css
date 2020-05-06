@@ -19,17 +19,12 @@ html {
   height: 100%;
 }
 
-html {
-  background-color: rgb(94, 67, 67);
-}
-
 body {
   background-image: var(--img1);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-clip: border-box;
   overflow-x: hidden;
 }
 
